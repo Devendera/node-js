@@ -1,0 +1,28 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "Code Step By Step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devendera/node-js.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Tutorial"
+  ],
+  "author": "Devender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devendera/node-js/issues"
+  },
+  "homepage": "https://github.com/Devendera/node-js#readme",
+  "dependencies": {
+    "console-log-colors": "^0.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
